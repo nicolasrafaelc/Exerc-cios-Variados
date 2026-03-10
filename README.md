@@ -1,2 +1,2 @@
-# Exerc-cios-Variados
+# Exercícios-Variados
 Exercícios de aulas da faculdade e vídeos.
